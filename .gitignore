@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Secrets - never commit these
+*.pem
+*.key
+.env
+*credentials*
+
+# Exported tenant data
+*.csv.bak
